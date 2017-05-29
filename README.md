@@ -1,2 +1,2 @@
 # Biblia
-Biblia in limba romana
+Biblia în limba romană
